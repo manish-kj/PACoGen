@@ -8,7 +8,7 @@ Word-Size (N) and Exponent-Size (ES).
 
 This work is based on folowing article. Please refer to it for more detailed description of PACoGen.
 # Manish Kumar Jaiswal, and Hayden K.-H. So, "PACoGen: A Hardware Posit Arithmetic Core Generator", Accepted for Publication, IEEE Access, May 2019. 
-It available at https://ieeexplore.ieee.org/document/8731915
+It is available at https://ieeexplore.ieee.org/document/8731915
 Please refer/cite this article if you find this work useful for/in your research.
 
 Posit standards are followed from the developer's paper which can be find at 
