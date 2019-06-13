@@ -1,6 +1,7 @@
-**The posit divison generator is based on Newton-Raphson method of division.**
+The posit divison generator is based on Newton-Raphson method of division.
 
-**File description:**
+
+File description:
 
 1. posit_div.v 			: Top-module which takes N (posit word size) and es (posit exponent size). It also includes all the sub-modules.
 
