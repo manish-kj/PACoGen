@@ -1,14 +1,5 @@
-
-PACoGen: Posit Arithmetic Core Generator
-
-A parameterized Verilog HDL arithmetic core generator is developed
-for posit arithmetic (adder, multiplier and division arithmetic). These 
-generators supports the posit standard including rounding to nearest rounding
-and can used to generate the Verilog HDL for any combination of Word-Size (N) 
-and Exponent-Size (ES).
- 
-
-Posit standards are followed from the developer's paper which can be find at 
-http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf
-
-
+File/folder Description:
+1. add  : Contains Posit Adder HDL Generator
+2. mult : Contains Posit Multiplier HDL Generator
+3. div  : Contains Posit Division HDL Generator
+4. PIPELINED_N32_ES6: Contains a pipelined version of posit adder, multiplier and division unit for N-32 and ES=6.
