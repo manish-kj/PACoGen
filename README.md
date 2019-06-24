@@ -1,6 +1,6 @@
 # PACoGen: Posit Arithmetic Core Generator
 
-[PACoGen_2019.0](https://github.com/manish-kj/PACoGen/archive/PACoGen_2019.0.tar.gz)
+[PACoGen_2019.0.tar.gz](https://github.com/manish-kj/PACoGen/archive/PACoGen_2019.0.tar.gz)    [PACoGen_2019.0.zip](https://github.com/manish-kj/PACoGen/archive/PACoGen_2019.0.zip)
 
 A parameterized Verilog HDL posit arithmetic core generator is developed
 for posit arithmetic (adder, multiplier and division arithmetic). These 
