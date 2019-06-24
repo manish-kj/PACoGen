@@ -1,5 +1,7 @@
 # PACoGen: Posit Arithmetic Core Generator
 
+PACoGen_2019.0 https://github.com/manish-kj/PACoGen/archive/PACoGen_2019.0.tar.gz
+
 A parameterized Verilog HDL posit arithmetic core generator is developed
 for posit arithmetic (adder, multiplier and division arithmetic). These 
 generators support the posit standard including rounding to nearest rounding 
